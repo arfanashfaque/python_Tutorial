@@ -1,6 +1,6 @@
 customer = {
     "name" : "Arfan Ashfaque",
-    "age" : 27,
+    "age" : 29,
     "is_verified" : True
 }
 print(customer["name"]) #output: Arfan Ashfaque
